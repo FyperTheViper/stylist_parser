@@ -1,0 +1,922 @@
+  [
+  {
+    "provider_id": 571925,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/02/26/fd9b0eaf-c9c_6339526_300x300.jpg",
+    "name": "Zee the Stylist",
+    "average_review_scores": 4.91,
+    "total_reviews": 155,
+    "vanity_url": "https://www.styleseat.com/m/v/zeerice",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/30/25f57512-f8d_6960450_300x300.jpg",
+    "salon_name": "Loc Lounge Hair Spa"
+  },
+  {
+    "provider_id": 1128341,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/09/03/6169cb30-16e_5948324_300x300.jpg",
+    "name": "Felix Bolden",
+    "average_review_scores": 4.93,
+    "total_reviews": 486,
+    "vanity_url": "https://www.styleseat.com/m/v/felixbolden",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/03/10/d5e14ef2-6fa_3933799_300x300.jpg",
+    "salon_name": "Kutz Unlimited"
+  },
+  {
+    "provider_id": 1191763,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/08/03/a42f1a8d-fc9_6674403_300x300.jpg",
+    "name": "Jerome Walker",
+    "average_review_scores": 4.92,
+    "total_reviews": 138,
+    "vanity_url": "https://www.styleseat.com/m/v/jeromewalker",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/08/01/5de92ab5-a3e_4795709_300x300.jpg",
+    "salon_name": "millenium cuts"
+  },
+  {
+    "provider_id": 1285034,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/04/09/67df002c-7f4_7149360_300x300.jpg",
+    "name": "Sean Rodriguez #323-359-1407",
+    "average_review_scores": 4.99,
+    "total_reviews": 175,
+    "vanity_url": "https://www.styleseat.com/m/v/Pinkroc87",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/09/03/e3eee521-1db_5947168_300x300.jpg",
+    "salon_name": "Salons of Dallas"
+  },
+  {
+    "provider_id": 1335276,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/05/a6f41ea4-151_6974504_300x300.jpg",
+    "name": "Titian Edwards",
+    "average_review_scores": 4.92,
+    "total_reviews": 71,
+    "vanity_url": "https://www.styleseat.com/m/v/titianedwards",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/03/ff65abb1-bb6_6971502_300x300.jpg",
+    "salon_name": "Headz-Up Barbershop"
+  },
+  {
+    "provider_id": 837600,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/02/26/0d9d04dc-64c_6337934_300x300.jpg",
+    "name": "Alfonso Flores",
+    "average_review_scores": 4.93,
+    "total_reviews": 208,
+    "vanity_url": "https://www.styleseat.com/m/v/FonziFadez",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/25/9626aeee-c59_6274482_300x300.jpg",
+    "salon_name": "UpperCuts Barbershop"
+  },
+  {
+    "provider_id": 1433974,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/23/09ab5e33-b54_7121420_300x300.jpg",
+    "name": "Yova Lockett-Wesley",
+    "average_review_scores": 5,
+    "total_reviews": 1,
+    "vanity_url": "https://www.styleseat.com/m/v/yovalockettwesley",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/02/27/017226d5-a9a_7077931_300x300.jpg",
+    "salon_name": "Yova @ June Street Barbershop"
+  },
+  {
+    "provider_id": 790226,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/18/89c9aa4e-598_7437404_300x300.jpg",
+    "name": "Danny Torrez",
+    "average_review_scores": 4.96,
+    "total_reviews": 91,
+    "vanity_url": "https://www.styleseat.com/m/v/dannytorrez",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/02/17/73649687-986_5449649_300x300.jpg",
+    "salon_name": "Uppercuts Barber Shop"
+  },
+  {
+    "provider_id": 1092525,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/06/6380aef3-981_6746720_300x300.jpg",
+    "name": "Marion Walker",
+    "average_review_scores": 4.94,
+    "total_reviews": 649,
+    "vanity_url": "https://www.styleseat.com/m/v/marionwalker",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/01/05/f59d61d7-c85_3453297_300x300.jpg",
+    "salon_name": "StylzFabulous"
+  },
+  {
+    "provider_id": 1298435,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/10/01/7f65b01e-f35_6794975_300x300.jpg",
+    "name": "Aaron Garcia",
+    "average_review_scores": 4.79,
+    "total_reviews": 139,
+    "vanity_url": "https://www.styleseat.com/m/v/aarongarcia",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/02/01/c8aedfa8-967_6288745_300x300.jpg",
+    "salon_name": "Legendz Classic Barber shop"
+  },
+  {
+    "provider_id": 1438375,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/12/cc80d4a3-065_7101885_300x300.jpg",
+    "name": "Cowboy",
+    "average_review_scores": 4.95,
+    "total_reviews": 146,
+    "vanity_url": "https://www.styleseat.com/m/v/cowboy",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/12/f8625726-850_7101843_300x300.jpg",
+    "salon_name": "Elements of Style"
+  },
+  {
+    "provider_id": 791073,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/08/18/0b07a568-0e6_4884228_300x300.jpg",
+    "name": "Nacho",
+    "average_review_scores": 4.97,
+    "total_reviews": 556,
+    "vanity_url": "https://www.styleseat.com/m/v/nacho",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/08/21/b08aa57a-44a_1682216_300x300.jpg",
+    "salon_name": "Legendz Classic Barber Shop"
+  },
+  {
+    "provider_id": 847446,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/05/6b9648ef-50e_6918697_300x300.jpg",
+    "name": "Terrell (T DaBarber) Williams",
+    "average_review_scores": 4.93,
+    "total_reviews": 60,
+    "vanity_url": "https://www.styleseat.com/m/v/terrellwilliams2",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/05/16/688651f2-025_4378305_300x300.jpg",
+    "salon_name": "The Art of Barbering"
+  },
+  {
+    "provider_id": 1096454,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/04/04/09c58e0c-c04_5558272_300x300.jpg",
+    "name": "Stephen X Corwin",
+    "average_review_scores": 4.96,
+    "total_reviews": 152,
+    "vanity_url": "https://www.styleseat.com/m/v/stephenx",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/04/04/d14803e3-8f1_5558276_300x300.jpg",
+    "salon_name": "Uppercuts Barber Shop"
+  },
+  {
+    "provider_id": 108323,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/10/0fdfee05-265_6174124_300x300.jpg",
+    "name": "Tyrone Malone A*K*A \"LEROY JONES",
+    "average_review_scores": 4.94,
+    "total_reviews": 346,
+    "vanity_url": "https://www.styleseat.com/m/v/tyronemalone",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2013/01/13/3c7f13327362_539868_300x300.jpg",
+    "salon_name": "Millennium Cuts Barber Studio"
+  },
+  {
+    "provider_id": 693965,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/07/12/7ec61dd0-f98_6627669_300x300.jpg",
+    "name": "Richard Lewis",
+    "average_review_scores": 4.89,
+    "total_reviews": 114,
+    "vanity_url": "https://www.styleseat.com/m/v/Kjkutz1707",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/02/10/caabe724-bc6_2095513_300x300.jpg",
+    "salon_name": "KJ  Kutz"
+  },
+  {
+    "provider_id": 750841,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/12/09/e0e0b3b8-f47_5283673_300x300.jpg",
+    "name": "Gleason Etc..",
+    "average_review_scores": 4.8,
+    "total_reviews": 201,
+    "vanity_url": "https://www.styleseat.com/m/v/gleasonetc",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/03/05/156ae4be-c40_1266233_300x300.jpg",
+    "salon_name": "Barber All-Stars"
+  },
+  {
+    "provider_id": 968945,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/30/b6fa7f7a-554_7456309_300x300.jpg",
+    "name": "Jay Howard",
+    "average_review_scores": 4.82,
+    "total_reviews": 276,
+    "vanity_url": "https://www.styleseat.com/m/v/jayhoward",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/08/10/195ff666-306_4845121_300x300.jpg",
+    "salon_name": "FAMOUS BARBERSHOP"
+  },
+  {
+    "provider_id": 1202082,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/01/58969458-9f9_7080640_300x300.jpg",
+    "name": "Angel D Barber",
+    "average_review_scores": 4.98,
+    "total_reviews": 160,
+    "vanity_url": "https://www.styleseat.com/m/v/angeldbarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/04/03/58c7baa1-ed7_7139227_300x300.jpg",
+    "salon_name": "A+ Barbering"
+  },
+  {
+    "provider_id": 1264783,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/06/01/81c1624f-b67_7242281_300x300.jpg",
+    "name": "Slick back Jack",
+    "average_review_scores": 4.99,
+    "total_reviews": 178,
+    "vanity_url": "https://www.styleseat.com/m/v/slickbackjack",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/07/11/29cd05af-d54_5790029_300x300.jpg",
+    "salon_name": "Slick back Jack's  percision barbers"
+  },
+  {
+    "provider_id": 1281746,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/06/27/1e2c0e3a-dba_7293943_300x300.jpg",
+    "name": "Ben Heath",
+    "average_review_scores": 5,
+    "total_reviews": 26,
+    "vanity_url": "https://www.styleseat.com/m/v/benheath",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/06/27/7484f9aa-97e_7293942_300x300.jpg",
+    "salon_name": "High Quality Cuts"
+  },
+  {
+    "provider_id": 1320956,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/04/01/072fc681-d4e_6412983_300x300.jpg",
+    "name": "Brandon Wheeler",
+    "average_review_scores": 4.98,
+    "total_reviews": 142,
+    "vanity_url": "https://www.styleseat.com/m/v/brandonwheeler",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/25/9564fe5f-0d9_6273231_300x300.jpg",
+    "salon_name": "Prestige Cuts"
+  },
+  {
+    "provider_id": 1321414,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/30/96c2da0c-808_6282493_300x300.jpg",
+    "name": "Corey Parramore",
+    "average_review_scores": 5,
+    "total_reviews": 70,
+    "vanity_url": "https://www.styleseat.com/m/v/coreyparramore",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/29/395cc68f-240_6281275_300x300.jpg",
+    "salon_name": "DMC CUTZ"
+  },
+  {
+    "provider_id": 927965,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/05/15/ca00958f-0e9_4368019_300x300.jpg",
+    "name": "Chad_da_Barber",
+    "average_review_scores": 4.76,
+    "total_reviews": 47,
+    "vanity_url": "https://www.styleseat.com/m/v/chad_da_barber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/07/19/45c2656f-6d1_4735008_300x300.jpg",
+    "salon_name": "New York Stylez"
+  },
+  {
+    "provider_id": 1088169,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/03/26/f5e5467e-5ff_5535551_300x300.jpg",
+    "name": "Cam the Barber",
+    "average_review_scores": 4.99,
+    "total_reviews": 342,
+    "vanity_url": "https://www.styleseat.com/m/v/cutzbycam",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/12/29/9e87346e1b56_3401696_300x300.jpg",
+    "salon_name": "Cutz by Cam"
+  },
+  {
+    "provider_id": 1171814,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/04/26/3fbe2bfa-924_7179277_300x300.jpg",
+    "name": "O.c Tha Barber",
+    "average_review_scores": 4.93,
+    "total_reviews": 745,
+    "vanity_url": "https://www.styleseat.com/m/v/octhabarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/01/29/0a4c202e-003_5403289_300x300.jpg",
+    "salon_name": "Top Ends Barbershop"
+  },
+  {
+    "provider_id": 1185172,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/11/26/4df00a5b-f2c_6900714_300x300.jpg",
+    "name": "Nick Styles",
+    "average_review_scores": 4.98,
+    "total_reviews": 77,
+    "vanity_url": "https://www.styleseat.com/m/v/coolbarbers",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/31/44637522-76d_6543834_300x300.jpg",
+    "salon_name": "Premier Barber Shop"
+  },
+  {
+    "provider_id": 1225009,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/10/22/a9c335d0-48e_6833788_300x300.jpg",
+    "name": "Toulee K",
+    "average_review_scores": 4.96,
+    "total_reviews": 131,
+    "vanity_url": "https://www.styleseat.com/m/v/touleekhounnoraj",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/11/20/710f2eba-de2_6132475_300x300.jpg",
+    "salon_name": "Uppercuts Barber Shop"
+  },
+  {
+    "provider_id": 1233406,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/07/325947cf-b6f_6921434_300x300.jpg",
+    "name": "Darrin  Smith",
+    "average_review_scores": 4.97,
+    "total_reviews": 656,
+    "vanity_url": "https://www.styleseat.com/m/v/darrinsmith",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/02/06/5e7eafed-f72_5425017_300x300.jpg",
+    "salon_name": "GameChangers Barbershop"
+  },
+  {
+    "provider_id": 581860,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/08/19/e993783c-dd6_4887235_300x300.jpg",
+    "name": "ANDDY",
+    "average_review_scores": 4.95,
+    "total_reviews": 294,
+    "vanity_url": "https://www.styleseat.com/m/v/anddythabarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/11/23180008-ce2_6175792_300x300.jpg",
+    "salon_name": "Above The Average Barber"
+  },
+  {
+    "provider_id": 617429,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/19/0cdf72a9-5df_7333064_300x300.jpg",
+    "name": "Ditty Simpson",
+    "average_review_scores": 4.81,
+    "total_reviews": 421,
+    "vanity_url": "https://www.styleseat.com/m/v/dittysimpson",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/07/10/bfd8762a-504_5787992_300x300.jpg",
+    "salon_name": "Dittyslim's Legends Barbershop"
+  },
+  {
+    "provider_id": 790057,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/04/29/a2d626fb-6a0_7184304_300x300.jpg",
+    "name": "Anthony Cano",
+    "average_review_scores": 4.97,
+    "total_reviews": 95,
+    "vanity_url": "https://www.styleseat.com/m/v/cano",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/04/30/74275c44-4d9_7185001_300x300.jpg",
+    "salon_name": "Uppercuts Barber Shop"
+  },
+  {
+    "provider_id": 828902,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/08/31/0846097a-d93_1705440_300x300.jpg",
+    "name": "Torrance Haynes",
+    "average_review_scores": 4.95,
+    "total_reviews": 347,
+    "vanity_url": "https://www.styleseat.com/m/v/perfectionsbytee",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/05/18/d94c9d34-a7c_4390045_300x300.jpg",
+    "salon_name": "Perfections byTee Men’s Grooming"
+  },
+  {
+    "provider_id": 933463,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/08/25/e61a12fc-6dd_6719939_300x300.jpg",
+    "name": "King David the Barber",
+    "average_review_scores": 4.94,
+    "total_reviews": 317,
+    "vanity_url": "https://www.styleseat.com/m/v/kingdavid",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/08/25/05ada68e-bff_4916605_300x300.jpg",
+    "salon_name": "North Texas Cutz"
+  },
+  {
+    "provider_id": 1071880,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/25/48285c7b-0c8_7448558_300x300.jpg",
+    "name": "DRE",
+    "average_review_scores": 4.93,
+    "total_reviews": 101,
+    "vanity_url": "https://www.styleseat.com/m/v/Jusakut",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/12/02/8fc014da-72e_3229101_300x300.jpg",
+    "salon_name": "Jusakut"
+  },
+  {
+    "provider_id": 1298379,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/27/488915de-137_7450982_300x300.jpg",
+    "name": "Jarvis Nash",
+    "average_review_scores": 4.88,
+    "total_reviews": 134,
+    "vanity_url": "https://www.styleseat.com/m/v/jarvisnash",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/10/08/0139a3c8-abe_7468371_300x300.jpg",
+    "salon_name": "The cutting edge"
+  },
+  {
+    "provider_id": 1397972,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/08/05/82aceea5-27a_7364150_300x300.jpg",
+    "name": "Dee Carney",
+    "average_review_scores": 5,
+    "total_reviews": 50,
+    "vanity_url": "https://www.styleseat.com/m/v/XclusiveKutz",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/10/28/200ef886-dab_6845093_300x300.jpg",
+    "salon_name": "Xclusive Kutz"
+  },
+  {
+    "provider_id": 1400204,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/27/7aa100b1-1ba_7020095_300x300.jpg",
+    "name": "Adriana Carcamo",
+    "average_review_scores": 4.94,
+    "total_reviews": 38,
+    "vanity_url": "https://www.styleseat.com/m/v/HandcraftedAdriana",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/11/04/126b7cf8-ebe_6858414_300x300.jpg",
+    "salon_name": "Handcrafted Barber Studio"
+  },
+  {
+    "provider_id": 1415028,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/26/a94ffa38-78f_6953946_300x300.jpg",
+    "name": "Roger Foggle",
+    "average_review_scores": 4.88,
+    "total_reviews": 18,
+    "vanity_url": "https://www.styleseat.com/m/v/rogerfoggle817",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/26/01e5f450-d7d_6953891_300x300.jpg",
+    "salon_name": "RazorDr Services"
+  },
+  {
+    "provider_id": 1422448,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/22/9d17c58f-a9e_7009378_300x300.jpg",
+    "name": "Taiki Iwase",
+    "average_review_scores": 4.98,
+    "total_reviews": 60,
+    "vanity_url": "https://www.styleseat.com/m/v/taikitike",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/29/be8b99b3-e5a_7022703_300x300.jpg",
+    "salon_name": "Blueprint Fade Lounge"
+  },
+  {
+    "provider_id": 1483795,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/14/bc6cd389-973_7322961_300x300.jpg",
+    "name": "Marcus Henderson",
+    "average_review_scores": 5,
+    "total_reviews": 16,
+    "vanity_url": "https://www.styleseat.com/m/v/marcushenderson",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/14/38f574ab-33f_7322971_300x300.jpg",
+    "salon_name": "Blue Barber Lounge"
+  },
+  {
+    "provider_id": 572996,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/07/40291e8b-a85_7092349_300x300.jpg",
+    "name": "Jay Huerta",
+    "average_review_scores": 4.98,
+    "total_reviews": 123,
+    "vanity_url": "https://www.styleseat.com/m/v/jayhuerta",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/23/aeb2abcc-d06_6526319_300x300.jpg",
+    "salon_name": "Texas Barber Lounge"
+  },
+  {
+    "provider_id": 833078,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/17/b3218ec4-281_6187297_300x300.jpg",
+    "name": "Christopher Minnieweather",
+    "average_review_scores": 4.98,
+    "total_reviews": 548,
+    "vanity_url": "https://www.styleseat.com/m/v/Mrminnieweather",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/18/20fe1242-d5d_6189252_300x300.jpg",
+    "salon_name": "Show & Tell Cuts"
+  },
+  {
+    "provider_id": 883052,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/30/14088225-fbb_6209825_300x300.jpg",
+    "name": "Carlos Andre Gray",
+    "average_review_scores": 4.97,
+    "total_reviews": 2350,
+    "vanity_url": "https://www.styleseat.com/m/v/carlosandregray",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/08/27/d59a9110-a34_6724567_300x300.jpg",
+    "salon_name": "WOW”IF LOOKS COULD KILL HAIR STUDIO"
+  },
+  {
+    "provider_id": 893869,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/12/16/d79b66fc-f59_6938484_300x300.jpg",
+    "name": "Bert Nelson",
+    "average_review_scores": 4.95,
+    "total_reviews": 502,
+    "vanity_url": "https://www.styleseat.com/m/v/bertnelson",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/09/11/45587ea2-842_2736560_300x300.jpg",
+    "salon_name": "The Fade Shop"
+  },
+  {
+    "provider_id": 956459,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/02/19/772695cf-273_5454378_300x300.jpg",
+    "name": "Marcus Webb",
+    "average_review_scores": 4.97,
+    "total_reviews": 121,
+    "vanity_url": "https://www.styleseat.com/m/v/marcuswebb",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/10/31/ed31099c-c2d_6086713_300x300.jpg",
+    "salon_name": "Uppercuts Barber Shop"
+  },
+  {
+    "provider_id": 1028847,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/20/36fcdf03-925_6519769_300x300.jpg",
+    "name": "Josh ibanez (josh the butcher)",
+    "average_review_scores": 4.91,
+    "total_reviews": 237,
+    "vanity_url": "https://www.styleseat.com/m/v/joshibanez",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/04/28/88e5caa7-cf4_4256073_300x300.jpg",
+    "salon_name": "Legendz Classic Barbershop"
+  },
+  {
+    "provider_id": 1137569,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/08/22/a3680088-d79_6714566_300x300.jpg",
+    "name": "Ashley Bauman",
+    "average_review_scores": 4.88,
+    "total_reviews": 67,
+    "vanity_url": "https://www.styleseat.com/m/v/ashleybauman2",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/03/29/4982c1c8-e74_4055790_300x300.jpg",
+    "salon_name": "I Roc Fresh Kutz"
+  },
+  {
+    "provider_id": 1300532,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/10/29/17693af3-29c_6082482_300x300.jpg",
+    "name": "Fakhree “BossBeardz”  Muhammad",
+    "average_review_scores": 4.96,
+    "total_reviews": 244,
+    "vanity_url": "https://www.styleseat.com/m/v/Bossbeardz",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/10/29/54af0cc4-4d7_6083614_300x300.jpg",
+    "salon_name": "Boss Lounge at Phenix Salon Suites"
+  },
+  {
+    "provider_id": 1372303,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/24/6601cee9-342_7014656_300x300.jpg",
+    "name": "Deshun The Definition",
+    "average_review_scores": 5,
+    "total_reviews": 2,
+    "vanity_url": "https://www.styleseat.com/m/v/ericedwards3",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/24/18ec943c-4e1_7014663_300x300.jpg",
+    "salon_name": "Deshun The Definition"
+  },
+  {
+    "provider_id": 1387374,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/24/ab7c524b-2c9_6782152_300x300.jpg",
+    "name": "Jay Tha Barber",
+    "average_review_scores": 4.97,
+    "total_reviews": 37,
+    "vanity_url": "https://www.styleseat.com/m/v/jaythabarber3",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/24/7ae074ff-840_6782153_300x300.jpg",
+    "salon_name": "Unlimited Stylz"
+  },
+  {
+    "provider_id": 1420202,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/18/91d85293-2ea_7217757_300x300.jpg",
+    "name": "Brian Jackson",
+    "average_review_scores": 5,
+    "total_reviews": 4,
+    "vanity_url": "https://www.styleseat.com/m/v/cutz_byb",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/12/45c8e577-061_6990488_300x300.jpg",
+    "salon_name": "New Touch of Class"
+  },
+  {
+    "provider_id": 107062,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/06/13/82904119-aef_6573004_300x300.jpg",
+    "name": "J.B.",
+    "average_review_scores": 4.9,
+    "total_reviews": 198,
+    "vanity_url": "https://www.styleseat.com/m/v/JB_Sharp",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2013/11/21/997287a6-f8c_1049309_300x300.jpg",
+    "salon_name": "Sharp Edge Barbershop"
+  },
+  {
+    "provider_id": 1053219,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/04/4462f836-44d_7413537_300x300.jpg",
+    "name": "Thomas Lollis",
+    "average_review_scores": 4.94,
+    "total_reviews": 348,
+    "vanity_url": "https://www.styleseat.com/m/v/tc_yourstruly",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/01/12/dd6c5294-664_3506389_300x300.jpg",
+    "salon_name": "S  Factor"
+  },
+  {
+    "provider_id": 1238234,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/06/03/fdf5f82e-866_7245656_300x300.jpg",
+    "name": "Jaye Mo",
+    "average_review_scores": 4.95,
+    "total_reviews": 267,
+    "vanity_url": "https://www.styleseat.com/m/v/jayemo",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/08/04/bca4c4c5-08d_5864036_300x300.jpg",
+    "salon_name": "Cutta"
+  },
+  {
+    "provider_id": 771097,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/25/5d5a59cc-933_7343402_300x300.jpg",
+    "name": "Bishop Da Showstopper",
+    "average_review_scores": 4.93,
+    "total_reviews": 553,
+    "vanity_url": "https://www.styleseat.com/m/v/bishopdashowstopper",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/11/13/a7419893-fdb_1891364_300x300.jpg",
+    "salon_name": "J. Gentleman's Cuts"
+  },
+  {
+    "provider_id": 806232,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/10/09/3a8cefa0-d97_6809023_300x300.jpg",
+    "name": "TyeTheBarber",
+    "average_review_scores": 4.97,
+    "total_reviews": 263,
+    "vanity_url": "https://www.styleseat.com/m/v/tyethebarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/06/26/fc7eee7b-a2c_4618983_300x300.jpg",
+    "salon_name": "Trinity Hair Salon"
+  },
+  {
+    "provider_id": 1152157,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/06/29/9ec29edc-264_6603481_300x300.jpg",
+    "name": "Luis Landa",
+    "average_review_scores": 4.89,
+    "total_reviews": 139,
+    "vanity_url": "https://www.styleseat.com/m/v/luislanda",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/04/29/b44e8dfe-8aa_4264266_300x300.jpg",
+    "salon_name": "Gladys Salon and Barber shop"
+  },
+  {
+    "provider_id": 1192217,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/06/06/28d14932-b3a_6555955_300x300.jpg",
+    "name": "Julius Williams",
+    "average_review_scores": 4.97,
+    "total_reviews": 810,
+    "vanity_url": "https://www.styleseat.com/m/v/juliuswilliams",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/06/06/12b191d4-36f_6556376_300x300.jpg",
+    "salon_name": "Prestige Cuts"
+  },
+  {
+    "provider_id": 1381190,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/05/6e5405ed-0a6_6743536_300x300.jpg",
+    "name": "Hogg Cutz",
+    "average_review_scores": 5,
+    "total_reviews": 17,
+    "vanity_url": "https://www.styleseat.com/m/v/Hoggcutz",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/05/38ac6dad-3a9_6743543_300x300.jpg",
+    "salon_name": "Salons by JC"
+  },
+  {
+    "provider_id": 1463647,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/21/1476cdd2-210_7223949_300x300.jpg",
+    "name": "Jorge Galaviz",
+    "average_review_scores": 5,
+    "total_reviews": 5,
+    "vanity_url": "https://www.styleseat.com/m/v/jorgegalaviz2",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/21/8a2cfd05-2b9_7223921_300x300.jpg",
+    "salon_name": "Barber studio"
+  },
+  {
+    "provider_id": 573167,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/08/14/f96e75cf-148_2607499_300x300.jpg",
+    "name": "Ruel Menton Jr",
+    "average_review_scores": 4.91,
+    "total_reviews": 277,
+    "vanity_url": "https://www.styleseat.com/m/v/ruelmentonjr",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/03/25/7f0e9421be79_1311804_300x300.jpg",
+    "salon_name": "The Light Barbershop"
+  },
+  {
+    "provider_id": 1256601,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/02/82cdf04d-b55_6215707_300x300.jpg",
+    "name": "Samuel Turincio",
+    "average_review_scores": 4.92,
+    "total_reviews": 233,
+    "vanity_url": "https://www.styleseat.com/m/v/samuelturincio",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/06/06/3d271660-21d_5707065_300x300.jpg",
+    "salon_name": "Legendz Classic Barbershop"
+  },
+  {
+    "provider_id": 1260804,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/10/b6bd15f8-836_6237827_300x300.jpg",
+    "name": "Tree",
+    "average_review_scores": 4.98,
+    "total_reviews": 450,
+    "vanity_url": "https://www.styleseat.com/m/v/treej",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/11/12/96f0422b-433_6114231_300x300.jpg",
+    "salon_name": "Create & Conquer Barber Lounge"
+  },
+  {
+    "provider_id": 1314148,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/01/31/0c3e1fdf-010_7027539_300x300.jpg",
+    "name": "Ahmad Khaliq Master Barber",
+    "average_review_scores": 4.89,
+    "total_reviews": 82,
+    "vanity_url": "https://www.styleseat.com/m/v/AHMADKHALIQMASTERBARBER",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/28/55a9ea9b-0ed_6204575_300x300.jpg",
+    "salon_name": "Quo`Vadis Barber Studio"
+  },
+  {
+    "provider_id": 934092,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/03/22/002bdbc4-68e_6391723_300x300.jpg",
+    "name": "FRANCHISE THE BARBER",
+    "average_review_scores": 4.98,
+    "total_reviews": 80,
+    "vanity_url": "https://www.styleseat.com/m/v/stevescott",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/04/09/6dc761c2-178_2239137_300x300.jpg",
+    "salon_name": "EUPHORIA SALON"
+  },
+  {
+    "provider_id": 1059889,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/06/09/54493df1-e05_6563293_300x300.jpg",
+    "name": "DaFitBarber",
+    "average_review_scores": 4.93,
+    "total_reviews": 473,
+    "vanity_url": "https://www.styleseat.com/m/v/DaFitBarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/11/4b576d25-1c1_6240522_300x300.jpg",
+    "salon_name": "Salons By JC"
+  },
+  {
+    "provider_id": 1195437,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/12/12/c1fd17f1-729_6177094_300x300.jpg",
+    "name": "Peewee",
+    "average_review_scores": 4.99,
+    "total_reviews": 808,
+    "vanity_url": "https://www.styleseat.com/m/v/peeweereynolds",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/08/28/94ac6c69-abc_5931015_300x300.jpg",
+    "salon_name": "Next Step Barber Lounge"
+  },
+  {
+    "provider_id": 1351833,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/05/6f5a5bd7-931_7195376_300x300.jpg",
+    "name": "Shondai Baca",
+    "average_review_scores": 5,
+    "total_reviews": 80,
+    "vanity_url": "https://www.styleseat.com/m/v/shondaibaca",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/02/09/1af2acbb-a09_7045337_300x300.jpg",
+    "salon_name": "Sharper Image"
+  },
+  {
+    "provider_id": 755045,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/01/20/8bf3c06f-da6_3572663_300x300.jpg",
+    "name": "Big Joe The Barber",
+    "average_review_scores": 4.93,
+    "total_reviews": 188,
+    "vanity_url": "https://www.styleseat.com/m/v/bigjoethebarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/10/06/aeb9fefa-3ee_1802748_300x300.jpg",
+    "salon_name": "504 Barbershop and Salon"
+  },
+  {
+    "provider_id": 942680,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/04/12/c73cb92f-378_4142523_300x300.jpg",
+    "name": "Nephew Wallace",
+    "average_review_scores": 4.87,
+    "total_reviews": 95,
+    "vanity_url": "https://www.styleseat.com/m/v/nephewwallace",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/12/06/49675a08-292_5275562_300x300.jpg",
+    "salon_name": "DNA Grooming"
+  },
+  {
+    "provider_id": 1058376,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/09/30/efedb46e-b0b_6792869_300x300.jpg",
+    "name": "Rell \"Barber_Man\" Mitchell",
+    "average_review_scores": 4.92,
+    "total_reviews": 215,
+    "vanity_url": "https://www.styleseat.com/m/v/rellmitchell",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/11/10/d271f742-48e_3090296_300x300.jpg",
+    "salon_name": "J. Mitchell Cut Studio"
+  },
+  {
+    "provider_id": 1192288,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/09/e8786b3d-3e3_7095797_300x300.jpg",
+    "name": "Kelvin Dafreshmaker",
+    "average_review_scores": 5,
+    "total_reviews": 56,
+    "vanity_url": "https://www.styleseat.com/m/v/kelvindafreshmaker",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/06/09/5fe579ae-01d_5715339_300x300.jpg",
+    "salon_name": "KJ'S Kutz"
+  },
+  {
+    "provider_id": 1238592,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/25/e7765fa4-cf4_7447830_300x300.jpg",
+    "name": "H.j. The Barber",
+    "average_review_scores": 4.94,
+    "total_reviews": 286,
+    "vanity_url": "https://www.styleseat.com/m/v/hjthebarber_",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/16/6b3cfda3-7c9_7327356_300x300.jpg",
+    "salon_name": "Reliable Quality Barbering Services"
+  },
+  {
+    "provider_id": 1401691,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/11/08/ae3c614e-2ba_6868187_300x300.jpg",
+    "name": "John Juan the Barber",
+    "average_review_scores": 5,
+    "total_reviews": 27,
+    "vanity_url": "https://www.styleseat.com/m/v/Johnjuanthebarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/11/08/4cebf8e7-44f_6868014_300x300.jpg",
+    "salon_name": "Perfected Image"
+  },
+  {
+    "provider_id": 1504627,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/06/a67d3d2e-6a1_7417862_300x300.jpg",
+    "name": "Man the Barber",
+    "average_review_scores": 5,
+    "total_reviews": 11,
+    "vanity_url": "https://www.styleseat.com/m/v/MantheBarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/09/05/53863fcb-f3a_7416240_300x300.jpg",
+    "salon_name": "ABE & CO."
+  },
+  {
+    "provider_id": 111946,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/18/f385008a-632_7113086_300x300.jpg",
+    "name": "Greg (G Da Makanik) Washington",
+    "average_review_scores": 4.76,
+    "total_reviews": 147,
+    "vanity_url": "https://www.styleseat.com/m/v/GDamakanik",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/05/24/77448ced-218_4435331_300x300.jpg",
+    "salon_name": "The Royal  Groomer"
+  },
+  {
+    "provider_id": 690248,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/05/01/dc7f7aec-94c_5621464_300x300.jpg",
+    "name": "Rickey Benns Jr",
+    "average_review_scores": 4.9,
+    "total_reviews": 121,
+    "vanity_url": "https://www.styleseat.com/m/v/RickeyBennsJr",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/07/01/06ce6e6f2d57_2458535_300x300.jpg",
+    "salon_name": "City Salon"
+  },
+  {
+    "provider_id": 763940,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/10/13/163ff12e-6e9_5122641_300x300.jpg",
+    "name": "Jerrel Roberson",
+    "average_review_scores": 4.95,
+    "total_reviews": 233,
+    "vanity_url": "https://www.styleseat.com/m/v/rangercuts",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2015/03/30/9fa9af81a747_2214631_300x300.jpg",
+    "salon_name": "Ranger Cuts"
+  },
+  {
+    "provider_id": 1238712,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/07/13/7df14969-f7f_7322032_300x300.jpg",
+    "name": "Fredricka Williams",
+    "average_review_scores": 5,
+    "total_reviews": 7,
+    "vanity_url": "https://www.styleseat.com/m/v/DrickaTheBarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/06/6e180326-d48_7196106_300x300.jpg",
+    "salon_name": "DrickaTheBarber"
+  },
+  {
+    "provider_id": 1298437,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/10/20/66740033-81e_6062945_300x300.jpg",
+    "name": "Ulises Garcia",
+    "average_review_scores": 4.94,
+    "total_reviews": 118,
+    "vanity_url": "https://www.styleseat.com/m/v/ulisesgarcia",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/nan_300x300.jpg",
+    "salon_name": "Legendz Classic Barbershop"
+  },
+  {
+    "provider_id": 1322547,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/10/20/8bfca8d8-606_6829606_300x300.jpg",
+    "name": "Dee The Barber",
+    "average_review_scores": 4.88,
+    "total_reviews": 100,
+    "vanity_url": "https://www.styleseat.com/m/v/Deethebarber72",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/02/13/778016c3-7e8_6314337_300x300.jpg",
+    "salon_name": "CUTS BY DEE"
+  },
+  {
+    "provider_id": 1322782,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/08/06/2fbb72ba-6be_6680276_300x300.jpg",
+    "name": "Christopher Small",
+    "average_review_scores": 4.81,
+    "total_reviews": 99,
+    "vanity_url": "https://www.styleseat.com/m/v/christophersmall",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/03/30/4f2cce7f-bec_6409876_300x300.jpg",
+    "salon_name": "FB3 Barber Lounge"
+  },
+  {
+    "provider_id": 1348203,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/05/ea74ffce-690_7194417_300x300.jpg",
+    "name": "Steve Tha Barber",
+    "average_review_scores": 4.93,
+    "total_reviews": 130,
+    "vanity_url": "https://www.styleseat.com/m/v/stevethabarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/20/9c7a9e78-7cd_6519685_300x300.jpg",
+    "salon_name": "Legendz Classic Barbershop"
+  },
+  {
+    "provider_id": 697873,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/01/28/2077d114-6a7_3641255_300x300.jpg",
+    "name": "Edward Johnson",
+    "average_review_scores": 4.96,
+    "total_reviews": 359,
+    "vanity_url": "https://www.styleseat.com/m/v/freshfade_ed",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2014/08/06/17239c124411_1644741_300x300.jpg",
+    "salon_name": "FADEMASTERS  BARBERSHOP"
+  },
+  {
+    "provider_id": 946289,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/02/01/33c20edb-940_7029655_300x300.jpg",
+    "name": "Bj the Barber",
+    "average_review_scores": 4.83,
+    "total_reviews": 205,
+    "vanity_url": "https://www.styleseat.com/m/v/bjthebarber2",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/02/01/def98bf3-937_7029640_300x300.jpg",
+    "salon_name": "Debonair Grooming Salon"
+  },
+  {
+    "provider_id": 1103230,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2017/03/31/067b1118-e2e_5547921_300x300.jpg",
+    "name": "Ric",
+    "average_review_scores": 4.95,
+    "total_reviews": 92,
+    "vanity_url": "https://www.styleseat.com/m/v/ricandrade",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/01/23/fbf2d57b-066_3599746_300x300.jpg",
+    "salon_name": "LEGENDZ BARBERSHOP"
+  },
+  {
+    "provider_id": 1210540,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/06/22/cce85ed9-e5c_7283173_300x300.jpg",
+    "name": "Parker",
+    "average_review_scores": 4.87,
+    "total_reviews": 80,
+    "vanity_url": "https://www.styleseat.com/m/v/tparker",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2016/10/17/0c6abf5a-0a5_5140094_300x300.jpg",
+    "salon_name": "Skillz Salon"
+  },
+  {
+    "provider_id": 1303467,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/08/29/4e424965-3f4_7404477_300x300.jpg",
+    "name": "La'Shadion  (L.A.) Anthony",
+    "average_review_scores": 4.93,
+    "total_reviews": 115,
+    "vanity_url": "https://www.styleseat.com/m/v/LaShadion",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/08/29/d23e7776-ba7_7404485_300x300.jpg",
+    "salon_name": "La’ Shadion’s"
+  },
+  {
+    "provider_id": 1317231,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/24/092ce2c8-5b7_7228003_300x300.jpg",
+    "name": "Kadron Jordan",
+    "average_review_scores": 4.92,
+    "total_reviews": 50,
+    "vanity_url": "https://www.styleseat.com/m/v/Kjordandabarber",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/01/09/cf7dba33-fd6_6235757_300x300.jpg",
+    "salon_name": "D.M.C. CUTZ"
+  },
+  {
+    "provider_id": 1350149,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/27/cea58b4f-3e3_6534123_300x300.jpg",
+    "name": "Chuck O'Neal",
+    "average_review_scores": 5,
+    "total_reviews": 32,
+    "vanity_url": "https://www.styleseat.com/m/v/ChuckOneal",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2018/05/27/4772242e-d4e_6534112_300x300.jpg",
+    "salon_name": "GoodFellas"
+  },
+  {
+    "provider_id": 1443493,
+    "profile_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/05/02/9769d26d-bbf_7190502_300x300.jpg",
+    "name": "Waylon",
+    "average_review_scores": 5,
+    "total_reviews": 34,
+    "vanity_url": "https://www.styleseat.com/m/v/DapperBarberLounge",
+    "work_image": "https://d220aniogakg8b.cloudfront.net/static/uploads/2019/03/28/513c0168-6ff_7128972_300x300.jpg",
+    "salon_name": "Dapper Barber Lounge"
+  }
+]
